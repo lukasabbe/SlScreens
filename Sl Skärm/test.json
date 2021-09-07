@@ -1,0 +1,64 @@
+{
+    "StatusCode": 0,
+    "Message": null,
+    "ExecutionTime": 95,
+    "ResponseData": {
+        "LatestUpdate": "2021-09-07T20:41:10",
+        "DataAge": 20,
+        "Metros": [],
+        "Buses": [
+            {
+                "GroupOfLine": null,
+                "TransportMode": "BUS",
+                "LineNumber": "53",
+                "Destination": "Henriksdalsberget",
+                "JourneyDirection": 1,
+                "StopAreaName": "Karolinska institutet västra",
+                "StopAreaNumber": 10315,
+                "StopPointNumber": 10315,
+                "StopPointDesignation": null,
+                "TimeTabledDateTime": "2021-09-07T21:00:00",
+                "ExpectedDateTime": "2021-09-07T21:00:00",
+                "DisplayTime": "18 min",
+                "JourneyNumber": 966,
+                "Deviations": null
+            },
+            {
+                "GroupOfLine": null,
+                "TransportMode": "BUS",
+                "LineNumber": "53",
+                "Destination": "Henriksdalsberget",
+                "JourneyDirection": 1,
+                "StopAreaName": "Karolinska institutet västra",
+                "StopAreaNumber": 10315,
+                "StopPointNumber": 10315,
+                "StopPointDesignation": null,
+                "TimeTabledDateTime": "2021-09-07T21:20:00",
+                "ExpectedDateTime": "2021-09-07T21:20:00",
+                "DisplayTime": "21:20",
+                "JourneyNumber": 967,
+                "Deviations": null
+            },
+            {
+                "GroupOfLine": null,
+                "TransportMode": "BUS",
+                "LineNumber": "53",
+                "Destination": "Henriksdalsberget",
+                "JourneyDirection": 1,
+                "StopAreaName": "Karolinska institutet västra",
+                "StopAreaNumber": 10315,
+                "StopPointNumber": 10315,
+                "StopPointDesignation": null,
+                "TimeTabledDateTime": "2021-09-07T21:40:00",
+                "ExpectedDateTime": "2021-09-07T21:40:00",
+                "DisplayTime": "21:40",
+                "JourneyNumber": 968,
+                "Deviations": null
+            }
+        ],
+        "Trains": [],
+        "Trams": [],
+        "Ships": [],
+        "StopPointDeviations": []
+    }
+}
